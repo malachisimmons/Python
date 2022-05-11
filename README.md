@@ -16,4 +16,4 @@ You can find the link to the project brief and original datasets [here.](https:/
 
 * Pandas- For data analysis
 * Numpy- To create subsets
-* Matplotlib, seaborn, and spicy to create visualizations 
+* Matplotlib, seaborn, and spicy- To create visualizations 

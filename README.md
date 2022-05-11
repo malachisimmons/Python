@@ -11,3 +11,9 @@ Instacart is an online grocery store, that operates through an app. Instacart al
 * Products
 
 You can find the link to the project brief and original datasets [here.](https://images.careerfoundry.com/public/courses/data-immersion/A4/A4_Data_Project%20Brief.pdf)
+
+## Tools
+
+* Pandas- For data analysis
+* Numpy- To create subsets
+* Matplotlib, seaborn, and spicy to create visualizations 

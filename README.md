@@ -1,4 +1,4 @@
-# **CF-Instacart**
+# **CF-Instacart Project**
 
 ## Objective ![image](https://user-images.githubusercontent.com/24593699/167760808-c4e7f0e6-4404-4063-b0b9-5471ce82ac5f.png)
 
